@@ -14,6 +14,6 @@ This project investigates the relationship between short-term rental premiums (A
 ## 📈 Current Progress
 - [x] Initial Repository Setup
 - [x] Dataset Acquisition (PPR 2025 & Airbnb Ireland)
-- [ ] Data Cleaning Pipeline (VAT Adjustments & Currency conversion)
-- [ ] Exploratory Data Analysis (EDA)
-- [ ] Baseline Regression Model
+- [x] Data Cleaning Pipeline (VAT Adjustments & Currency conversion)
+- [x] Exploratory Data Analysis (EDA)
+- [x] Baseline Regression Model
